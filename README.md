@@ -4,6 +4,6 @@
 
 • solve mazes
 
-• create mazes
+• create labyrinths
 
 • challenge other players at solving mazes
